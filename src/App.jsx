@@ -55,7 +55,7 @@ Beyond his teaching and leadership responsibilities, Parashuram D Talwar is know
       {/* Footer */}
       <footer className="footer">
         <p>&copy; 2024 Karnataka (Govt) Polytechnic, Mangalore. All rights reserved.</p>
-        <p>Designed by tushar</p>
+        <p>Designed by shreyas</p>
       </footer>
     </div>
   );
