@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "homepage": "https://ShreyasKPT.github.io/hod",
-
   "type": "module",
   "scripts": {
     "dev": "vite",
